@@ -7,6 +7,8 @@
 #include <stdexcept>
 using namespace std;
 
+// Muhammad Xayrullayev 220098
+// Tuesday 14:00
 // 1. Main Function
 
 // Q1: Program that prints number of arguments and lists them
